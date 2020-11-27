@@ -1,2 +1,2 @@
 # KatiaCherkeniuk.github.io
-Перший сайт
+Перший сайт на гіті
